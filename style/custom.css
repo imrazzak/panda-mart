@@ -5,3 +5,22 @@
 .panda-info {
     background-color: #feeae9;
 }
+
+.panda-btn {
+    color: #fff;
+    padding: 12px 30px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.panda-grad-main {
+    background: linear-gradient(90deg, hsla(334, 75%, 92%, 1) 0%, hsla(312, 60%, 95%, 1) 100%);
+}
+
+.panda-text-main {
+    color: #d70f64;
+}
+
+.categories {
+    padding: 10px 30px;
+}
